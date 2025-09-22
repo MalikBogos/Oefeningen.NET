@@ -46,7 +46,6 @@ switch (keuze)
     for (int i = lengte - 1; i >= 0; i--)
     {
         Console.Write(woord[i]);
-        lengte--;
     }
     Console.WriteLine();
     Console.ReadKey();
@@ -88,7 +87,7 @@ static void recursie(string woord)
         Console.ReadKey();
         return;
     }
-    Console.Write(woord[woord.Length - 1]);
+    Console.Write(woord.Last());
 
     recursie(woord.Substring(0, woord.Length - 1));
 }
