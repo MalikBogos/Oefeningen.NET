@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../Arrays/Arrays.csproj" Id="4e877dbc-3261-4376-b62e-5106add2b0d1" />
+  <Project Path="../Collections/Collections.csproj" Id="b674f728-2288-40fd-bd89-13e79a5ffa52" />
+  <Project Path="../Eigenschappen&amp;Methoden/Eigenschappen&amp;Methoden.csproj" Id="592a4839-0d5b-4159-beec-dec0e7b6de1f" />
+  <Project Path="../Enums/Enums.csproj" Id="d09a61e8-8e70-4621-bd81-9f9cb890e722" />
+  <Project Path="../OefeningArrays/OefeningArrays.csproj" Id="e1499ddf-640c-498a-ac2c-a00845c9e2db" />
+  <Project Path="../OefeningCollections/OefeningCollections.csproj" Id="ad29334f-dcab-426b-9b41-c0453a54e6e9" />
+  <Project Path="../OefeningGeneriekeKlassen/OefeningGeneriekeKlassen.csproj" Id="d96bf5fa-81f0-4a98-8ba7-0c24121c529f" />
+  <Project Path="../OefeningWekker/OefeningWekker.csproj" Id="c46c7019-83b2-4814-9fc4-a033650a825a" />
+  <Project Path="../WerkenMetTuple/WerkenMetTuple.csproj" Id="8cbeba98-0502-4a30-8e08-98a84c4d3241" />
+  <Project Path="OefeningOmkeren.csproj" />
+</Solution>
